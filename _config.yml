@@ -1,12 +1,12 @@
 # Site settings
-title: Red Barrel
+title: Picture of Code
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Programming, games and other random ramblings. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yousifh.me" # the base hostname & protocol for your site
+url: "https://yousif.dev" # the base hostname & protocol for your site
 twitter_username: test
-github_username:  test
+github_username:  yousifh
 
 # Build settings
 markdown: kramdown
