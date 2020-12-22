@@ -6,3 +6,4 @@ TODO
 - change layout
 - add drafts
 - rework on feed
+- migrate to Hugo
