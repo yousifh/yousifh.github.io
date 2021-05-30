@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Picture of Code</title>
-    <link>https://yousif.dev/categories/</link>
+    <link>https://yousifh.com/categories/</link>
     <description>Recent content in Categories on Picture of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2020, Picture of Code</copyright><atom:link href="https://yousif.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright 2020, Picture of Code</copyright><atom:link href="https://yousifh.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
